@@ -1,5 +1,5 @@
-<?php
-    echo "
+<?php ?>
     <footer>
-        <p>Copyright 2020 NGABIRANO Brice</p>
-    </footer> ";
+        <p>Copyright @2020 NGABIRANO Brice</p>
+    </footer>
+<?php ?>

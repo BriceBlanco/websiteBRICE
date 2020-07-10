@@ -24,5 +24,3 @@
             <li><a href="musique.php">Musique</a></li>
         </ul>
     </div>
-</body>
-</html>

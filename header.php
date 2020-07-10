@@ -12,7 +12,7 @@
         <ul>
             <li><a href="index.php">Accueil</a></li>
             <li><a href="apropos.php">A propos</a></li>
-            <li><a href="quissommesnous.php">Qui sommes-nous</a></li>
+            <li><a href="quisommesnous.php">Qui sommes-nous</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </div>

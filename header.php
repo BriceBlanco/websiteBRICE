@@ -8,7 +8,6 @@
     
 </head>
 <body>
-<nav>
     <ul class="nav justify-content-center">
         <li class="nav-item">
             <a class="nav-link" href="index.php">Acceuil</a>
@@ -41,4 +40,3 @@
             <a class="nav-link" href="musique.php">Musique</a>
         </li>
     </ul>
-</nav>    

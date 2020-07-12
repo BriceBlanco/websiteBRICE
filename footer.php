@@ -1,5 +1,5 @@
 <?php ?>
-    <footer class="row justify-content-center">
+    <footer class="container">
         <p>Copyright @2020 NGABIRANO Brice</p>
     </footer>
 <?php ?>
